@@ -25,6 +25,7 @@ public class Ex3WHILE {
 				conti50++;
 			}
 				
+			
 		System.out.println("\nEntre com uma nova idade : ");
 		idade = leia.nextInt();		
 			}
