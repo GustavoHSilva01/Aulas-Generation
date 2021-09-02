@@ -11,8 +11,10 @@ public class Ex1 {
 		
 	System.out.println("\nReceba o valor de a: ");
 	a = leia.nextInt();
+	
 	System.out.println("\nReceba o valor de b: ");
 	b= leia.nextInt();
+	
 	System.out.println("\nReceba o valor de c: ");
 	c = leia.nextInt();
 	
