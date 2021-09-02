@@ -2,7 +2,7 @@ package Familia32;
 
 import java.util.Scanner;
 
-public class Dia1Java {
+public class Ex1 {
 
 	public static void main(String[] args) {
 		
