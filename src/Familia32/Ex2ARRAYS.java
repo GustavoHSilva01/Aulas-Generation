@@ -2,7 +2,7 @@ package Familia32;
 
 import java.util.Scanner;
 
-public class Matriz6 {
+public class Ex2ARRAYS {
 	public static void main(String[] args) {
 		
 		int numero[] = new int[6];
